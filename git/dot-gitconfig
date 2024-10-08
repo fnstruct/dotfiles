@@ -1,0 +1,5 @@
+[user]
+    user = fnstruct
+    email = 184018508+fnstruct@users.noreply.github.com
+[init]
+    defaultBranch = master
