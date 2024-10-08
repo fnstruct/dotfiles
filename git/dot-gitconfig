@@ -3,3 +3,12 @@
     email = 184018508+fnstruct@users.noreply.github.com
 [init]
     defaultBranch = master
+[alias]
+    c = commit -ae --no-gpg-sign
+    l = log -p
+    p = format-patch -1
+    ap = apply -v
+    ce = commit -e --amend
+    cs = commit -ae
+    ls = l --show-signature
+    pa = format-patch --root
