@@ -1,5 +1,8 @@
 # SPDX-License-Identifier: MIT
 
+# Custom tap hosting previous versions
+tap "fnstruct/tap"
+
 brew "bat"
 brew "editorconfig"
 brew "git"
@@ -7,3 +10,5 @@ brew "micro"
 brew "stow"
 
 cask "firefox@esr"
+cask "fnstruct/tap/eloston-chromium"
+cask "fnstruct/tap/iterm2"
