@@ -1,3 +1,4 @@
 # SPDX-License-Identifier: MIT
 
 source "$HOME/.config/zsh/backdrop.zsh"
+source "$HOME/.config/zsh/exports.zsh"
