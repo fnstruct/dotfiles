@@ -1,0 +1,6 @@
+set autoquit
+set cursorpreview "\033[7m"
+set drawbox
+set info size:time
+set hidden
+set nohistory
