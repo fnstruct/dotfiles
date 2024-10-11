@@ -2,3 +2,5 @@
 
 source "$HOME/.config/zsh/backdrop.zsh"
 source "$HOME/.config/zsh/exports.zsh"
+
+source "/opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
