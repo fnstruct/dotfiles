@@ -4,3 +4,5 @@ set drawbox
 set info size:time
 set hidden
 set nohistory
+
+cmd open &set -f; :
