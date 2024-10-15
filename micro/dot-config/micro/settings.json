@@ -6,6 +6,9 @@
     "ft:ruby": {
         "editorconfig": true
     },
+    "ft:yaml": {
+        "tabsize": 2
+    },
     "mkparents": true,
     "multiopen": "vsplit",
     "parsecursor": true,
