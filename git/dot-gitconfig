@@ -7,8 +7,10 @@
 	c = commit -ae --no-gpg-sign
 	l = log -p
 	p = format-patch -1
+	s = switch -f
 	ap = apply -v
 	ce = commit -e --amend
 	cs = commit -ae
+	lo = log --oneline
 	ls = l --show-signature
 	pa = format-patch --root
