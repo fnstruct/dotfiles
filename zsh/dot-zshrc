@@ -1,6 +1,8 @@
 # SPDX-License-Identifier: MIT
 
+source "$HOME/.config/zsh/aliases.zsh"
 source "$HOME/.config/zsh/backdrop.zsh"
 source "$HOME/.config/zsh/exports.zsh"
+source "$HOME/.config/zsh/options.zsh"
 
 source "/opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"

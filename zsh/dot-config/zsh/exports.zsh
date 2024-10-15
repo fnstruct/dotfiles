@@ -19,3 +19,8 @@ convey-on-availability "PAGER" "less"
 # Use micro as default EDITOR and VISUAL
 convey-on-availability "EDITOR" "micro"
 convey-on-availability "VISUAL" "$EDITOR"
+
+# Golang
+export GOPATH="$HOME/.cache/go"
+export GOCACHE="$GOPATH/cache"
+export GOMODCACHE="$GOPATH/cache/mod"
