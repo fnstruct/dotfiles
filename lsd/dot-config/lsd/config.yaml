@@ -1,0 +1,20 @@
+# SPDX-License-Identifier: MIT
+
+# Disable icons
+icons:
+  when: never
+
+# Only one level of depth in recursion
+recursion:
+  depth: 1
+
+# Show directories first
+# This matches the output listing of lf
+sorting:
+  dir-grouping: first
+
+# Always show the total size of a directory
+total-size: true
+
+# Support older terminals when showing symlinks
+symlink-arrow: "=>"
