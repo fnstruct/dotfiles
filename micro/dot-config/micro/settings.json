@@ -3,6 +3,9 @@
     "colorscheme": "twilight",
     "cursorline": false,
     "diffgutter": true,
+    "ft:ruby": {
+        "editorconfig": true
+    },
     "mkparents": true,
     "multiopen": "vsplit",
     "parsecursor": true,
