@@ -9,3 +9,4 @@ aliased-on-availability() {
 
 # Use lsd when listing files
 aliased-on-availability "ls" "lsd" "lsd -a"
+aliased-on-availability "bat" "bat" "bat --theme \"TwoDark\""
