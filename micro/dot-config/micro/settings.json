@@ -16,5 +16,6 @@
     "ruler": false,
     "savecursor": true,
     "saveundo": true,
+    "tabreverse": false,
     "tabstospaces": true
 }
