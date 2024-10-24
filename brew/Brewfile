@@ -5,6 +5,7 @@ tap "fnstruct/tap"
 
 brew "bat"
 brew "editorconfig"
+brew "fnstruct/tap/aidrop-cli"
 brew "fnstruct/tap/ris"
 brew "git"
 brew "gnupg"
