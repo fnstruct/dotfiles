@@ -1,4 +1,5 @@
 .DS_Store
+brew/**/*.json
 micro/**/backups
 micro/**/buffers
 micro/**/plug
