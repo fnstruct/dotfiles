@@ -4,6 +4,7 @@
 # Mostly helpful when setting up a (new) (virtual) machine
 
 brew "bat"
+brew "diffutils"
 brew "editorconfig"
 brew "git"
 brew "gnu-sed"

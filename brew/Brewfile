@@ -4,6 +4,7 @@
 tap "fnstruct/tap"
 
 brew "bat"
+brew "diffutils"
 brew "editorconfig"
 brew "fnstruct/tap/airdrop-cli"
 brew "fnstruct/tap/ris"
