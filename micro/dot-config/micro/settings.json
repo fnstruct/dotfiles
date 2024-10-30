@@ -3,6 +3,10 @@
     "colorscheme": "twilight",
     "cursorline": false,
     "diffgutter": true,
+    "ft:patch": {
+        "editorconfig": true,
+        "rmtrailingws": false
+    },
     "ft:ruby": {
         "editorconfig": true
     },
