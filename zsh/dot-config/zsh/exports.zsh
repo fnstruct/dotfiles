@@ -20,6 +20,9 @@ convey-on-availability "PAGER" "less"
 convey-on-availability "EDITOR" "micro"
 convey-on-availability "VISUAL" "$EDITOR"
 
+# Homebrew
+export HOMEBREW_NO_AUTO_UPDATE=1
+
 # Golang
 export GOPATH="$HOME/.cache/go"
 export GOCACHE="$GOPATH/cache"
